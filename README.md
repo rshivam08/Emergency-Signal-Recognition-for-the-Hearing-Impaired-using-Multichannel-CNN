@@ -21,7 +21,7 @@ A multichannel CNN architecture was implemented, which made use of 4 different c
 ## Android Deployment
 
 The presented deep learning was deployed on an android application for assisting hearning impaired in real life. 
-![alt text](https://github.com/paddy-03/Emergency-Signal-Recognition-for-the-Hearing-Impaired-using-Multichannel-CNN/blob/master/android_deployment.png)
+![alt text](https://github.com/rshivam08/Emergency-Signal-Recognition-for-the-Hearing-Impaired-using-Multichannel-CNN/blob/master/android_deployment.png)
 
 ## Requirements
 
