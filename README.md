@@ -18,6 +18,11 @@ The dataset used was Google's Audioset. A part of Audioset was used for this stu
 A multichannel CNN architecture was implemented, which made use of 4 different channels to extract features from spectrograms, and then the 4 channels are merged using the Add() layer in Keras. 
 ![alt text](https://github.com/paddy-03/Emergency-Signal-Recognition-for-the-Hearing-Impaired-using-Multichannel-CNN/blob/master/architecture3.png)
 
+## Android Deployment
+
+The presented deep learning was deployed on an android application for assisting hearning impaired in real life. 
+![alt text](https://github.com/paddy-03/Emergency-Signal-Recognition-for-the-Hearing-Impaired-using-Multichannel-CNN/blob/master/android_deployment.png)
+
 ## Requirements
 
 - Python 3
